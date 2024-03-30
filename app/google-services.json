@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "719710609294",
+    "firebase_url": "https://realtimemusic-db859-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "realtimemusic-db859",
+    "storage_bucket": "realtimemusic-db859.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719710609294:android:ccae110e9ca57a46930edf",
+        "android_client_info": {
+          "package_name": "com.example.realtimemusic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3wgkvNQp7IpnFav3Q-YjihRCFKgRqCO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
